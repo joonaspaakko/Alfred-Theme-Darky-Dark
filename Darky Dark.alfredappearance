@@ -1,0 +1,61 @@
+{
+  "alfredtheme" : {
+    "result" : {
+      "textSpacing" : 5,
+      "subtext" : {
+        "size" : 10,
+        "colorSelected" : "#FFFFFFC4",
+        "font" : "Helvetica Neue",
+        "color" : "#FEFFFE54"
+      },
+      "shortcut" : {
+        "size" : 13,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "System",
+        "color" : "#FEFFFE5D"
+      },
+      "backgroundSelected" : "#FEFFFE14",
+      "text" : {
+        "size" : 15,
+        "colorSelected" : "#FFFFFFFF",
+        "font" : "Helvetica Neue",
+        "color" : "#FEFFFEE5"
+      },
+      "iconPaddingHorizontal" : 16,
+      "paddingVertical" : 9,
+      "iconSize" : 23
+    },
+    "search" : {
+      "paddingVertical" : 0,
+      "background" : "#FEFFFE00",
+      "spacing" : 10,
+      "text" : {
+        "size" : 24,
+        "colorSelected" : "#000000FF",
+        "font" : "Helvetica Neue",
+        "color" : "#FEFFFEFF"
+      },
+      "backgroundSelected" : "#B2D7FFFF"
+    },
+    "window" : {
+      "color" : "#040404D9",
+      "paddingHorizontal" : 0,
+      "width" : 549,
+      "borderPadding" : 2,
+      "borderColor" : "#FEFFFE1F",
+      "blur" : 15,
+      "roundness" : 4,
+      "paddingVertical" : 8
+    },
+    "credit" : "Joonas Pääkkö",
+    "separator" : {
+      "color" : "#CBCBCBF3",
+      "thickness" : 0
+    },
+    "scrollbar" : {
+      "color" : "#FEFFFEA1",
+      "thickness" : 2
+    },
+    "name" : "Darky Dark"
+  }
+}
